@@ -1,0 +1,13 @@
+## Interface: 60000
+## Title: Probably: |cff9966ffCharred Remains|r
+## Notes: Destruction Profile For PE.
+## Dependencies: Probably
+## Author: Aeonz
+## Alpha 0.0.1
+
+-- Func Lib --
+Functions\LibraryDestro.lua
+Functions\FunctionLib.lua
+
+-- Rotations --
+Rotations\Destruction\Charred_Remains.lua
